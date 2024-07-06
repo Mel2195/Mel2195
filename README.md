@@ -1,5 +1,8 @@
 Welcome to My Data Wonderland! 🌟
-Hi there! I'm Melanie Tummino, a data enthusiast with a passion for translating complex data into actionable insights and eye-catching dashboards. With a Bachelor's degree in Mathematics and Statistics, and over 5 years of hands-on experience, I've worked across various domains to drive data-driven decision-making and foster cross-functional collaboration.
+
+Hi there! 
+
+I'm Melanie Tummino, a data enthusiast with a passion for translating complex data into actionable insights and eye-catching dashboards. With a Bachelor's degree in Mathematics and Statistics, and over 5 years of hands-on experience, I've worked across various domains to drive data-driven decision-making and foster cross-functional collaboration.
 
 Who Am I? 🤔
 I am currently consulting at La Comunidad, a non-profit based in my hometown of Everett, MA for their data needs around political survey data to help BIPOC residents of Everett, MA. I have worked as a Sr BI/Data Analyst and Data Scientist for VC-backed startups keen on harnessing their data but lacking specialized expertise and I have also collaborated with data operations in established, larger teams. I have pioneered data initiatives and I have contributed to growing teams. I am currently seeking my next opportuinity to challenge the boundaries of my analytical skills and grow as a data professional. 
