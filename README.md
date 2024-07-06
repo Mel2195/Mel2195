@@ -6,7 +6,7 @@ I'm Melanie Tummino, a data enthusiast with a passion for translating complex da
 
 ### Who Am I? 🤔
 
-I am currently consulting at La Comunidad, a non-profit based in my hometown of Everett, MA for their data needs around political survey data to help BIPOC residents of Everett, MA. I have worked as a Sr BI/Data Analyst and Data Scientist for VC-backed startups keen on harnessing their data but lacking specialized expertise and I have also collaborated with data operations in established, larger teams. I have pioneered data initiatives and I have contributed to growing teams. I am currently seeking my next opportuinity to challenge the boundaries of my analytical skills and grow as a data professional. 
+I am currently a consultant at La Comunidad, a non-profit based in my hometown of Everett, MA for data needs around political survey data to help BIPOC residents of Everett, MA. I have worked as a Sr BI/Data Analyst and Data Scientist for VC-backed startups keen on harnessing their data but lacking specialized expertise and I have also collaborated with data operations in established, larger teams. I have pioneered data initiatives and I have contributed to growing teams. Aside from data, I also love taking long walks with my dog and enjoying nature. I am currently seeking my next opportuinity to challenge the boundaries of my analytical skills and grow as a data professional, so please feel free to reach out.
 
 ### My Technical Toolkit 🛠️
 
@@ -41,4 +41,8 @@ I'm always excited to connect with fellow data enthusiasts and professionals. Fe
 Melanie Tummino
 
 📍 Los Angeles • 📧 melanietummino@gmail.com • 📞 857-654-6165
+
+### Please refer to my public Tableau profile to see any dashboards built using the repositories mentioned 📈 
+
+URL: https://public.tableau.com/app/profile/mtummino/vizzes 
 
