@@ -1,4 +1,4 @@
-Welcome to My Data Wonderland! 🌟
+### Welcome to My Data Wonderland! 🌟
 
 Hi there! 
 
@@ -11,12 +11,19 @@ I am currently consulting at La Comunidad, a non-profit based in my hometown of 
 ### My Technical Toolkit 🛠️
 
 Coding Languages: SQL, Python, R
+
 Development Tools: VS Code, PyCharm, Git, GitHub, Jira
+
 Dashboard and Reporting: Tableau, Metabase, Looker
+
 Cloud Computing Platforms: Snowflake, AWS Redshift
+
 Spreadsheet Programming: Excel, Google Sheets
+
 ETL and Integration: dbt, Fivetran, Tray.io (iPaaS)
+
 CRM: Salesforce, Hubspot
+
 Finance: ADP, Quickbooks, Rippling, Netsuite
 
 ### Fun Facts 🎉
