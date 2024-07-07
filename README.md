@@ -2,7 +2,7 @@
 
 Hi there! 
 
-I'm Melanie Tummino, a data enthusiast with a passion for translating complex data into actionable insights and eye-catching dashboards. With a Bachelor's degree in Mathematics and Statistics, and over 5 years of hands-on experience, I've worked across various domains to drive data-driven decision-making and foster cross-functional collaboration.
+I'm Melanie, a data enthusiast with a passion for translating complex data into actionable insights and eye-catching dashboards. With a Bachelor's degree in Mathematics and Statistics, and over 5 years of hands-on experience, I've worked across various domains to drive data-driven decision-making and foster cross-functional collaboration.
 
 ### Who Am I? 🤔
 
