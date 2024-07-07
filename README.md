@@ -1,4 +1,4 @@
-### Welcome to My Data Wonderland! 🌟
+### Welcome to My GitHub! 🌟
 
 Hi there! 
 
@@ -6,7 +6,7 @@ I'm Melanie Tummino, a data enthusiast with a passion for translating complex da
 
 ### Who Am I? 🤔
 
-I am currently a consultant at La Comunidad, a non-profit based in my hometown of Everett, MA for data needs around political survey data to help BIPOC residents of Everett, MA. I have worked as a Sr BI/Data Analyst and Data Scientist for VC-backed startups keen on harnessing their data but lacking specialized expertise and I have also collaborated with data operations in established, larger teams. I have pioneered data initiatives and I have contributed to growing teams. Aside from data, I also love taking long walks with my dog and enjoying nature. I am currently seeking my next opportuinity to challenge the boundaries of my analytical skills and grow as a data professional, so please feel free to reach out.
+I am currently a consultant at La Comunidad, a non-profit based in my hometown of Everett, MA assisting and analyzing political survey data to help BIPOC residents of Everett, MA gain the resources they need to have a more financially stable life. I have worked as a Senior BI/Data Analyst and Data Scientist for VC-backed startups keen on harnessing their data but lacking specialized expertise and I have also collaborated with data operations in established, larger teams. Hence, I have pioneered data initiatives and I have contributed to growing teams. Aside from data, I also love taking long walks with my dog and enjoying nature when I can! I am currently seeking my next opportuinity to challenge the boundaries of my analytical skills and grow as a data professional, so please feel free to reach out if you'd like to chat :)
 
 ### My Technical Toolkit 🛠️
 
