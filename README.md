@@ -38,7 +38,8 @@ Finance: ADP, Quickbooks, Rippling, Netsuite
 
 I'm always excited to connect with fellow data enthusiasts and professionals. Feel free to reach out to me via LinkedIn or explore my GitHub repositories to see what I'm currently working on. Let's drive data-driven growth together!
 
-📍 Los Angeles • 📧 melanietummino@gmail.com • 📞 857-654-6165
+📍 Los Angeles • 📧 melanietummino@gmail.com 
+LinkedIn: https://www.linkedin.com/in/mtummino21/
 
 ### Please refer to my Tableau Public Profile to see some of the dashboards built using the repositories mentioned on my GitHub 📈 
 
