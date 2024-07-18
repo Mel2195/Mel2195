@@ -30,7 +30,7 @@ Finance: ADP, Quickbooks, Rippling, Netsuite
 
 📚 Avid Reader: Active member of the Wild Women Book Club in Long Beach, CA 
 
-🎤 Presenter: Presented at the National HEED Conference in Shanghai and the National Conference of Undergraduate Research
+🎤 Presenter & Speaker: Presented at the National HEED Conference in Shanghai, the National Conference of Undergraduate Research at the University of Central Oklahoma and ran a discussion panel for the First Generation Summit at Tufts University
 
 🌈 Diversity Advocate: Founded The A Team: Diversity, Equity & Inclusion ERG at Reveneer
 
